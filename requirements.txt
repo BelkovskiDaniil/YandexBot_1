@@ -1,0 +1,10 @@
+discord
+config
+requests
+pyowm
+asyncio
+bs4
+pymorphy2
+translate
+sqlite3
+os
