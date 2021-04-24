@@ -1,5 +1,4 @@
 import translate
-import sqlite3
 import discord
 from discord import utils
 import config
@@ -14,7 +13,6 @@ import bs4
 from bs4 import BeautifulSoup
 import pymorphy2
 from translate import Translator
-import sqlite3 as sql
 import os
 
 client = commands.Bot(command_prefix='.')
